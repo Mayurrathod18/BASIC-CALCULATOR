@@ -1,3 +1,4 @@
+# BASIC CALCULATOR
 This is a simple command-line calculator built using Python. It supports four basic arithmetic operations: Addition, Subtraction, Multiplication, and Division. The calculator takes input from the user in the form of comma-separated numbers and performs the selected operation.
 
 Features:
